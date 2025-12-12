@@ -1,6 +1,6 @@
 # Docker Compose
 
-[← 手順書に戻る](../3I-45-手順書.md)
+[← 手順書に戻る](../README.md)
 
 **概要:**
 Docker Compose は複数のコンテナサービスを一括で定義・起動するためのツールです。`docker-compose.yml`（または `docker compose`）でサービス、ボリューム、ネットワークを宣言します。
@@ -22,3 +22,4 @@ docker compose up -d
 ```
 
 **参考:** Docker Compose ドキュメント
+
