@@ -1,6 +1,6 @@
 # phpMyAdmin
 
-[← 手順書に戻る](../3I-45-手順書.md)
+[← 手順書に戻る](../README.md)
 
 **概要:**
 phpMyAdmin は MySQL/MariaDB をブラウザで管理するための PHP ベースの GUI ツールです。データベースの閲覧、クエリ実行、バックアップなどの日常的な運用作業を支援します。
@@ -22,3 +22,4 @@ docker run -d -p 8888:80 --name pma phpmyadmin/phpmyadmin
 ```
 
 **参考:** phpMyAdmin 公式サイト
+
