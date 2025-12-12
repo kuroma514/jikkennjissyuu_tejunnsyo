@@ -1,6 +1,6 @@
 # CMS
 
-[← 手順書に戻る](../3I-45-手順書.md)
+[← 手順書に戻る](../README.md)
 
 **概要:**
 CMS（Content Management System）は Web コンテンツを管理・編集するシステムで、WordPress は代表的な PHP ベースの CMS です。コンテンツ編集、テーマ運用、プラグインで機能拡張できます。
@@ -23,3 +23,4 @@ docker compose up -d
 ```
 
 **参考:** 各 CMS の公式ドキュメント
+
