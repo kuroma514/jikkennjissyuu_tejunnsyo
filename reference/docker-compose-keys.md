@@ -1,6 +1,6 @@
 # Docker Compose の主要キー
 
-[← 手順書に戻る](../3I-45-手順書.md)
+[← 手順書に戻る](../README.md)
 
 **概要:**
 `docker-compose.yml` でよく使われる主要キーと運用上の注意点を整理します。Compose は複数サービスを定義して一括で管理するためのツールです。
@@ -26,3 +26,4 @@ services:
 ```
 
 **参考:** Docker Compose ドキュメント
+
